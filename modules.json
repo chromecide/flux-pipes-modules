@@ -1,6 +1,13 @@
 [
     {
         "name": "flux-pipes",
+        "description":"Flux Pipes Core Module",
+        "author": "Justin Pradier",
+        "module": "chromecide/flux-pipes"
+    },
+    {
+        "name": "flux-pipes-tcp",
+        "description":"Flux Pipes TCP Module",
         "author": "Justin Pradier",
         "module": "chromecide/flux-pipes"
     }
